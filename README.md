@@ -1,1 +1,2 @@
-# lab5
+compile:make
+execute:./lab5
