@@ -3,7 +3,7 @@
 int main(){
 	HugeInt x;
 	HugeInt y(28825252);
-	HugeInt z("314159265358979323846");
+	HugeInt z(314159265358979323846);
 	HugeInt result;
 
 	cin>>x;
